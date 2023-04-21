@@ -1,1 +1,1 @@
-# manipulability_calculation_for-_robotic-_maniulator
+# manipulability_calculation_for_robotic_maniulator
